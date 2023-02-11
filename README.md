@@ -4,7 +4,7 @@ Team: Metformin-121
 
 training and validation code: DREAM-2022-CODA-TB-Challenge-Metformin-121.ipynb
 
-model and weights: double_separate
+model, weights and logs: double_separate
 
 testing docker: inference_tbF
 
